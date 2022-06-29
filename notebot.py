@@ -32,4 +32,4 @@ async def on_message(message):
             message_to_send+="```"+x+"```"
         await message.reply(message_to_send, mention_author=True)
         
-client.run('OTkxNDM2NDk5NjY3MTI4Mzky.GvoKAf.vOu2RlvpXOHu9oz12PYIJRdLTqySAku-saJgBY')
+client.run('token goes here')
